@@ -106,7 +106,7 @@ body {
     transition: transform 0.3s ease;
     width: 20vw;
     aspect-ratio: 1;
-    background-image: url(images/nos.jpg);
+    background-image: url(images/nos.png);
     background-size: contain;
     display: none;
     overflow-x: visible;
